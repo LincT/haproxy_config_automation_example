@@ -16,12 +16,12 @@ docker compose logs
 ```
 
 # Features:
-> [x] refresh script allows hot updates to config with haproxy able to fall back if config error
-> [x] Extracts config from HAProxy Configuration code block further down this document
+> - [x] refresh script allows hot updates to config with haproxy able to fall back if config error
+> - [x] Extracts config from HAProxy Configuration code block further down this document
 
 
 # TODO:
-> - test if corrected refresh script allows hot adding new endpoints
+> - [ ] follow up on open pr's and issues in this repo
 
 # HAProxy Configuration
 
